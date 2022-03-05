@@ -1,0 +1,23 @@
+body {
+    --font-body-text: var(--sans);
+    --font-section-heading: var(--sans);
+}
+
+
+/************************************************
+ * Tubular 90s theme!
+ ************************************************/
+.theme-90s {
+    background: #fff url(../bg-90s.jpg) top;
+
+    --font-section-heading: Caveat;
+}
+
+
+/************************************************
+ * Excellent 80s theme!
+ ************************************************/
+.theme-80s {
+    background: #000 url('../bg-80s.jpg') top;
+    background-size: cover;
+}
